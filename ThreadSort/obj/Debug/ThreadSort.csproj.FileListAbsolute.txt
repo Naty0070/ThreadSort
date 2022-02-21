@@ -1,0 +1,19 @@
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\CSharp-pCv\ThreadSort\bin\Debug\ThreadSort.exe.config
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\CSharp-pCv\ThreadSort\bin\Debug\ThreadSort.exe
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\CSharp-pCv\ThreadSort\bin\Debug\ThreadSort.pdb
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\CSharp-pCv\ThreadSort\obj\Debug\ThreadSort.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\CSharp-pCv\ThreadSort\obj\Debug\ThreadSort.Form1.resources
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\CSharp-pCv\ThreadSort\obj\Debug\ThreadSort.Properties.Resources.resources
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\CSharp-pCv\ThreadSort\obj\Debug\ThreadSort.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\CSharp-pCv\ThreadSort\obj\Debug\ThreadSort.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\CSharp-pCv\ThreadSort\obj\Debug\ThreadSort.exe
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\CSharp-pCv\ThreadSort\obj\Debug\ThreadSort.pdb
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\CSharp-pCv - PrograssBars\ThreadSort\bin\Debug\ThreadSort.exe.config
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\CSharp-pCv - PrograssBars\ThreadSort\bin\Debug\ThreadSort.exe
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\CSharp-pCv - PrograssBars\ThreadSort\bin\Debug\ThreadSort.pdb
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\CSharp-pCv - PrograssBars\ThreadSort\obj\Debug\ThreadSort.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\CSharp-pCv - PrograssBars\ThreadSort\obj\Debug\ThreadSort.Properties.Resources.resources
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\CSharp-pCv - PrograssBars\ThreadSort\obj\Debug\ThreadSort.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\CSharp-pCv - PrograssBars\ThreadSort\obj\Debug\ThreadSort.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\CSharp-pCv - PrograssBars\ThreadSort\obj\Debug\ThreadSort.exe
+C:\Users\PC\Desktop\Naty-programovani\programovani\Moje programy\OOP_CsharpPok\Kurs\CSharp-pCv - PrograssBars\ThreadSort\obj\Debug\ThreadSort.pdb
